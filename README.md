@@ -20,7 +20,7 @@ NOTE BEFORE INSTALL: DON'T FLASH THIS MODULE IN TWRP. USE MAGISK MANAGER ONLY TO
 <br />
 
 <b><h3>:scroll: Setup steps:</h3></b>
-- Start by downloading the <a href="https://raw.githubusercontent.com/sobuj53/Detach/master/Detach.txt">Detach.txt</a> file to your `/sdcard/` folder: <a href="https://raw.githubusercontent.com/sobuj53/Detach/master/Detach.txt">Detach.txt</a>
+- Start by downloading the <a href="raw.githubusercontent.com/xerta555/Detach/blob/master/Detach.txt">Detach.txt</a> file to your `/sdcard/` folder: <a href="https://raw.githubusercontent.com/sobuj53/Detach/master/Detach.txt">Detach.txt</a>
   - (equivalent to `/storage/emulated/0/`)
 - Remove the `#` symbol just before the application(s) name(s) you want in this file
 - Follow the next `Bonus` section if you want to detach other application(s) wich aren't in the list
